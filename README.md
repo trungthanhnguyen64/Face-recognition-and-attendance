@@ -20,3 +20,5 @@
 + 元のデータに基づく顔認識。
 + 出席を取って、リストを Excel ファイルに保存します。
 
+レポートのリンク:https://docs.google.com/document/d/1wom4wipxWweVWBXx99gpQDlBfc8EO4lJ/edit
+
