@@ -23,5 +23,7 @@
 レポートのリンク:https://docs.google.com/document/d/1wom4wipxWweVWBXx99gpQDlBfc8EO4lJ/edit
 
 結果：
-+ https://github.com/trungthanhnguyen64/Face-recognition-and-attendance/blob/main/result1.png
-+ https://github.com/trungthanhnguyen64/Face-recognition-and-attendance/blob/main/result2.png
++ ![alt text](https://github.com/trungthanhnguyen64/Face-recognition-and-attendance/blob/main/result1.png)
+
++ ![alt text](https://github.com/trungthanhnguyen64/Face-recognition-and-attendance/blob/main/result2.png)
+
