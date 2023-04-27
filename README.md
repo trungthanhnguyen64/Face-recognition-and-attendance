@@ -29,5 +29,7 @@
 
 また、出席アプリの開発にも取り組んでいます。 製品は研究中であり、将来的にリリースされる予定です。
 アプリケーションのインターフェースは次のとおりです。
+
 ![alt text](https://github.com/trungthanhnguyen64/Face-recognition-and-attendance/blob/main/app..png)
+![alt text](https://github.com/trungthanhnguyen64/Face-recognition-and-attendance/blob/main/app.png)
 
